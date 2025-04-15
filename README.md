@@ -1,9 +1,9 @@
-# EXPERIMENT 2 : IMPLEMENTATION OF BOOLEAN_FUNCTION_MINIMIZATION**
+# EXPERIMENT 2 : IMPLEMENTATION OF BOOLEAN_FUNCTION_MINIMIZATION
 
 # NAME : JAGAN JP
 # REG NO : 212224230099
 
-**AIM:**
+AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
@@ -15,7 +15,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 Hardware – PCs, Cyclone II , USB flasher
 
-**THEORY**
+THEORY:
 
 In this experiment, combinational logic functions are implemented using Verilog HDL and verified through simulation in Quartus software. The given functions F1 and F2 are in Sum of Products (SOP) form, which are combinations of AND, OR, and NOT gates.
 
@@ -25,7 +25,7 @@ Using Verilog, the Boolean expressions are coded using assign statements, which 
 
 This process helps in understanding digital circuit design and simulation using HDL and FPGA tools.
 
-**PROCEDURE**
+PROCEDURE:
 
 1.	Type the program in Quartus software.
 
@@ -38,27 +38,27 @@ This process helps in understanding digital circuit design and simulation using 
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM:**
+PROGRAM:
 
 ![WhatsApp Image 2025-03-19 at 9 28 20 AM](https://github.com/user-attachments/assets/ef7fa114-a4fb-4afa-bc9a-7a9a9004bd7e)
 
-*TRUTH TABLE*
+TRUTH TABLE:
 
 ![WhatsApp Image 2024-11-21 at 11 34 59_158c6d9f](https://github.com/user-attachments/assets/180440d0-631d-45bf-a85a-4508c9f41e65)
 
 ![WhatsApp Image 2024-11-21 at 11 34 59_05329a2a](https://github.com/user-attachments/assets/e7443311-e06d-405a-9194-a60e492f0585)
 
-**RTL REALIZATION**
+RTL REALIZATION:
 
 ![WhatsApp Image 2025-03-19 at 9 28 15 AM](https://github.com/user-attachments/assets/c233ac40-2b9f-4663-b3b6-2044ec65a68f)
 
 
 
-**WAVE FORM**
+WAVE FORM:
 ![WhatsApp Image 2025-03-19 at 9 28 20 AM (1)](https://github.com/user-attachments/assets/55f67c9d-02c6-41c8-a2cb-e91394415035)
 
 
-**RESULT**
+RESULT:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
